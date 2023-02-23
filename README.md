@@ -1,2 +1,2 @@
-# Developpment d'un modèle noyau linux par caractère
+# Developpment d'un module noyau linux par caractère
  
