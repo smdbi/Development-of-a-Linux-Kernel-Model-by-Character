@@ -17,4 +17,4 @@ A well-organized Makefile accompanies the source code of the Linux kernel model,
 Extensive documentation delves into the architectural nuances of the model, key character-based management concepts, and step-by-step directives to initiate your journey.
 Contributor guidelines are at your disposal, detailing the art of contributing, reporting bugs, and partaking in the model's evolutionary journey..
 
-Feel free to customize this description based on your specific goals for the repository. Good luck with your Linux kernel model development project :)
+
